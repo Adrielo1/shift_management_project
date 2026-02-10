@@ -1,6 +1,6 @@
 # Shift Management System
 
-A full-stack web application for managing employee shifts and schedules. Built as a learning project to practice REST API design, database operations, and React development.
+A full-stack web application for managing employee shifts and schedules. Built as a learning project to practice REST API design, database operations, and React development. Built with the help of Claude.
 
 ## 📋 Features
 
